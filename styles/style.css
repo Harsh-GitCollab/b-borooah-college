@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-size: 16px;
+}
+
+/**************************** L O G O ****************/
+#logo {
+    width: 85%;
+}
+
+.container {
+    border: 2px solid red;
+    width: 98%;
+    margin: 0 auto;
+}
+
+/********************* N A V I G A T I O N *************/
+nav a {
+    text-decoration: none;
+    background-color: red;
+    font-size: 0.7rem;
+    display: inline-block;
+    padding: 0.5em 0.5em;
+    
+}
+
+
+#banner, 
+#campus{
+    width: 100%;
+}
