@@ -32,4 +32,16 @@ nav a {
 #banner, 
 #campus{
     width: 100%;
+    
+}
+
+
+/**************** M E D I A   Q U E R I E S ****************/
+
+@media screen and (max-width: 600px) {
+    a:nth-child(4),
+    a:nth-child(5),
+    a:nth-child(6) {
+        display: none;
+    }
 }
